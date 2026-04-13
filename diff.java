@@ -6,6 +6,7 @@ public class Diff {
         int b = 4; 
  
         System.out.println("Difference is " + (a - b)); 
+        System.out.println("Updated code");
  
     } 
  
